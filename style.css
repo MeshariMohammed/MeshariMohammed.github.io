@@ -19,9 +19,6 @@ hr {
   color: rgba(255, 255, 255, 0.8); 
 }
 
-h1{
- text-align: center;
-}
 header.startup {
   background-position: center;
   background-image: url("header.jpg");
@@ -43,6 +40,8 @@ header.startup h1 {
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
+  align-items: center;
+  justify-content: center;
 }
 
 .btn-xl {
