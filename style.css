@@ -19,6 +19,9 @@ hr {
   color: rgba(255, 255, 255, 0.8); 
 }
 
+h1{
+ text-align: center;
+}
 header.startup {
   background-position: center;
   background-image: url("header.jpg");
